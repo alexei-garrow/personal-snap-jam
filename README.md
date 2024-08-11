@@ -2,7 +2,7 @@
 
 Snap jam is our final group project for Dev Academy.
 
-The idea was to create an app that allows you to upload and play and share compositions with multiple people.
+The idea was to create an app that allows you to upload, play and share compositions with multiple people, wherever you are in the world!
 
 One of the main technical hurdles was playing multiple audiofiles together without any delay. 
 
