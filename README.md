@@ -1,4 +1,4 @@
-##Snap Jam##
+## Snap Jam ##
 
 Snap jam is our final group project for Dev Academy.
 
